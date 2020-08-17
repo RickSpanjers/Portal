@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataconPortal", "DataconPortal\DataconPortal.csproj", "{7FD4FA6C-85FB-45BE-970E-B64A93E59CA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal", "DataconPortal\Portal.csproj", "{7FD4FA6C-85FB-45BE-970E-B64A93E59CA1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTesting", "PortalTesting\PortalTesting.csproj", "{40D74912-E6B1-4056-8D56-19C9161BBFD4}"
 EndProject

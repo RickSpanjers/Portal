@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataconPortal\DataconPortal.csproj">
+    <ProjectReference Include="..\DataconPortal\Portal.csproj">
       <Project>{7fd4fa6c-85fb-45be-970e-b64a93e59ca1}</Project>
-      <Name>DataconPortal</Name>
+      <Name>Portal</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
